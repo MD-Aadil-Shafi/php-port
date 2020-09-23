@@ -44,6 +44,7 @@
     <section class="firstDiv" id="firstDiv">
         <div class="container cDiv">
             <h1 class="text-center fd_h1 text-white" id="home">Hi! Welcome to my Portfolio Page.</h1>
+            <p class=text-center>......</p>
 
             <p class="text-center text-white">Proficiency in Web designing, Web Development and Graphic Designing... </p>
             <br>
