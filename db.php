@@ -2,9 +2,9 @@
 
 class Database{
     public $con;
-    private $servername = 'localhost';
-    private $username = "root";
-    private $password = "";
+    private $servername = 'us-cdbr-east-02.cleardb.com';
+    private $username = "b43463bd16c214";
+    private $password = "4ef85be4";
     private  $dbname = "portdb";
     
     
