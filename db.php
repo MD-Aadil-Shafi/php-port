@@ -2,10 +2,10 @@
 
 class Database{
     public $con;
-    private $servername = 'us-cdbr-east-02.cleardb.com';
-    private $username = "b43463bd16c214";
-    private $password = "4ef85be4";
-    private  $dbname = "heroku_c32efef62bf53c9";
+    private $servername = 'servername';
+    private $username = "username";
+    private $password = "password";
+    private  $dbname = "dbname";
     
     
     public function __construct(){
